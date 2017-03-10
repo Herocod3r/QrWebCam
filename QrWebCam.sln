@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrWebCam.Wpf", "QrWebCam\QrWebCam.Wpf.csproj", "{AA96B503-7B3D-41DF-824C-96ED4A8897C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrWebCam.Demo", "QrWebCam.Demo\QrWebCam.Demo.csproj", "{93C22537-B49E-4C85-970B-169446D72026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA96B503-7B3D-41DF-824C-96ED4A8897C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA96B503-7B3D-41DF-824C-96ED4A8897C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA96B503-7B3D-41DF-824C-96ED4A8897C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA96B503-7B3D-41DF-824C-96ED4A8897C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C22537-B49E-4C85-970B-169446D72026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C22537-B49E-4C85-970B-169446D72026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C22537-B49E-4C85-970B-169446D72026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C22537-B49E-4C85-970B-169446D72026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
